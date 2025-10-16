@@ -1,0 +1,55 @@
+17:07:44.292 [main] INFO  allWebsites.myVyayCom - Validate myVyayCom
+17:07:51.729 [main] INFO  allWebsites.myVyayCom - Validate Product Link
+17:11:55.562 [main] INFO  allWebsites.myVyayCom - Validate Resource link myVyayCom
+17:12:25.878 [main] INFO  allWebsites.myVyayCom - Validate all images on About Us page
+17:12:58.479 [main] INFO  allWebsites.myVyayCom - Validate Contact form myVyayCom
+17:13:11.376 [main] INFO  allWebsites.botmaticSolutionIn - Validate Botmatic Solutions (India) Home Page
+17:13:47.553 [main] INFO  allWebsites.botmaticSolutionCom - Validate Botmatic Solutions Home Page
+17:13:55.836 [main] INFO  allWebsites.botmaticSolutionCom - Validate Home link in botmatic Solution Com
+17:13:55.951 [main] INFO  allWebsites.botmaticSolutionCom - Validate About Us Link in Botmatic Solution website
+17:13:57.666 [main] INFO  allWebsites.botmaticSolutionCom - Validate RPA Use Cases Link on Botmatic Solutions website
+17:13:59.115 [main] INFO  allWebsites.botmaticSolutionCom - Validate Product Opens in Botmatic Solutions website
+17:14:04.949 [main] INFO  allWebsites.botmaticSolutionCom - Validate Broken Link botmatic Solution Com
+17:14:33.465 [main] INFO  allWebsites.ofelostrade - Validate ofelostrade
+17:14:36.289 [main] INFO  allWebsites.ofelostrade - Validate Team ofelostrade
+17:14:40.514 [main] INFO  allWebsites.ofelostrade - Validate Certificate ofelostrade
+17:14:43.629 [main] INFO  allWebsites.ofelostrade - Validate Contact us ofelostrade
+17:14:50.658 [main] INFO  allWebsites.ofelostrade - Validate Broken Links ofelostrade
+17:15:28.698 [main] INFO  allWebsites.eliteVibes - Validate Elite Vibes
+17:15:41.495 [main] INFO  allWebsites.sunriseFoundation - Validate Broken Links sunrise Foundation
+17:16:11.521 [main] INFO  allWebsites.sunriseFoundation - Validate Contact Us sunrise Foundation
+17:16:21.178 [main] INFO  allWebsites.sunriseFoundation - Validate Donate Page sunrise Foundation
+17:16:32.941 [main] INFO  allWebsites.sunriseFoundation - Validate email Box Page sunrise Foundation
+17:16:35.214 [main] INFO  allWebsites.sunriseFoundation - Validate sunrise Foundation
+17:16:36.980 [main] INFO  allWebsites.sunriseFoundation - Validate About us sunrise Foundation
+17:16:52.145 [main] INFO  allWebsites.sunriseFoundation - Validate Education sunrise Foundation
+17:16:52.378 [main] INFO  allWebsites.sunriseFoundation - Validate Gallery sunrise Foundation
+17:16:52.557 [main] INFO  allWebsites.sunriseFoundation - Validate Home Link sunrise Foundation
+17:16:52.676 [main] INFO  allWebsites.sunriseFoundation - Validate Certificate sunrise Foundation
+17:16:52.847 [main] INFO  allWebsites.sunriseFoundation - Validate Home Page sunrise Foundation
+17:16:55.303 [main] INFO  allWebsites.caJpd - Validate CAJPD Home Page
+17:17:50.294 [main] INFO  allWebsites.caJpd - Validate About Us Link CAJPD
+17:17:50.715 [main] INFO  allWebsites.caJpd - Validate Services page CAJPD
+17:17:50.857 [main] INFO  allWebsites.caJpd - Validate Knowlede Page CAJPD
+17:17:51.012 [main] INFO  allWebsites.caJpd - Validate fill Contact page CAJPD
+17:18:31.503 [main] INFO  allWebsites.caJpd - Validate Social Media Pages CAJPD
+17:18:54.240 [main] INFO  allWebsites.caJpd - Validate Broken Link CAJPD
+17:19:04.964 [main] INFO  allWebsites.claimMyShares - Validate Claim My Shares Home Page
+17:19:52.111 [main] INFO  allWebsites.claimMyShares - Validate home link Claim My Shares
+17:19:58.553 [main] INFO  allWebsites.claimMyShares - Validating all images on multiple service pages
+17:20:50.515 [main] INFO  allWebsites.claimMyShares - Validate About Us in Claim My Shares
+17:21:03.542 [main] INFO  allWebsites.claimMyShares - Clicked on About Us link
+17:21:08.597 [main] INFO  allWebsites.claimMyShares - Total images found on About Us page: 12
+17:21:16.359 [main] INFO  allWebsites.claimMyShares - ✅ All visible images on About Us page are valid and displayed properly.
+17:21:16.371 [main] INFO  allWebsites.claimMyShares - Validate FAQ link clickability and page title on Claim My Shares
+17:21:22.719 [main] INFO  allWebsites.claimMyShares - Clicked on FAQ link.
+17:21:22.752 [main] INFO  allWebsites.claimMyShares - Validate Broken Link claim My Shares
+17:22:20.103 [main] INFO  allWebsites.eliteTravelDesk - Validate Elite Travel Desk
+17:22:27.940 [main] INFO  allWebsites.eliteTravelDesk - Validate Flex Pop Up Elite Travel Desk
+17:22:58.043 [main] INFO  allWebsites.eliteTravelDesk - Validate Flight, Elite Travel Desk
+17:22:58.392 [main] INFO  allWebsites.eliteTravelDesk - Validate Hotel Link Elite Travel Desk
+17:23:32.704 [main] INFO  allWebsites.eliteTravelDesk - Validate Plan A Trip Elite Travel Desk
+17:23:57.991 [main] INFO  allWebsites.eliteTravelDesk - Validate Intercity Cab link Elite Travel Desk
+17:24:32.577 [main] INFO  allWebsites.eliteTravelDesk - Validate Activity Link Elite Travel Desk
+17:24:40.165 [main] INFO  allWebsites.eliteTravelDesk - Validate Transfers Link Elite Travel Desk
+17:24:40.562 [main] INFO  allWebsites.eliteTravelDesk - Validate Organized Package Elite Travel Desk
